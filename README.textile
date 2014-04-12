@@ -2,7 +2,9 @@ h1. alpha_mutant
 
 h2. Install
 
-In your terminal type @git clone https://github.com/asishallab/alpha_mutant.git@
+Opena command line (terminal) and change into the directory where you want @alpha_mutant@ installed. To do so type for example @cd /Users/johnfcongo/projects/@.
+
+To obtain the latest code then type @git clone https://github.com/asishallab/alpha_mutant.git@
 
 Note, that alpha_mutant requires @R@. To check, if you have it installed type @R --version@ in your terminal. 
 
