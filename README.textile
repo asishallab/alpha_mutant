@@ -1,2 +1,18 @@
-alpha_mutant
-============
+h1. alpha_mutant
+
+h2. Install
+
+In your terminal type @git clone https://github.com/asishallab/alpha_mutant.git@
+
+Note, that alpha_mutant requires @R@. To check, if you have it installed type @R --version@ in your terminal. 
+
+h2. Usage
+
+In your terminal preferably in the @alpha_mutatant@ folder type @Rscript alpha_mutant.R <your_alphabet.txt> <your_text.txt> <your_mutated_text_output.txt>@.
+
+Simple test-example @Rscript alpha_mutant.R ./alpha.txt test/lorem.txt test.txt@
+
+h2. Licence
+
+GPL3
+
