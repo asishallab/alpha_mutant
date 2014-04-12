@@ -2,7 +2,7 @@ h1. alpha_mutant
 
 h2. Install
 
-Opena command line (terminal) and change into the directory where you want @alpha_mutant@ installed. To do so type for example @cd /Users/johnfcongo/projects/@.
+Open a command line (terminal) and change into the directory where you want @alpha_mutant@ installed. To do so type for example @cd /Users/johnfcongo/projects/@.
 
 To obtain the latest code then type @git clone https://github.com/asishallab/alpha_mutant.git@
 
