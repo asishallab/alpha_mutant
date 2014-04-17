@@ -14,6 +14,16 @@ In your terminal preferably in the @alpha_mutatant@ folder type @Rscript alpha_m
 
 Simple test-example @Rscript alpha_mutant.R ./alpha.txt test/lorem.txt test.txt@
 
+h3. Detailled Usage
+
+_Note, that in the terminal your Dokumente folder is *Documents*_ 
+
+# Put your alphabet file into Documents/abc/alpha_mutant
+# Put your text file into Documents/abc/text
+# Open your terminal
+# Switch into your @abc@ folder: @cd /Users/johnfcongo/Documents/abc/alpha_mutant@
+# Translate your text into a series of videos: @Rscript alpha_mutant.R alpha.txt ../text/your_text.txt output_list_of_videos.txt@
+
 h2. Licence
 
 GPL3
